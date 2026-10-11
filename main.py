@@ -1,4 +1,5 @@
 #lms
+print("library management system")
 from member import Member
 from library import  Library
 
