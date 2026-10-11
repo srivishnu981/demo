@@ -1,4 +1,4 @@
-#lmsdwd
+#lmsiiitd
 print("library management system")
 print("lms of iiit dwd")
 print("pycharm is very useful for python projects")
