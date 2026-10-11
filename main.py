@@ -1,6 +1,7 @@
 #lms
 print("library management system")
 print("lms of iiit dwd")
+print("pycharm is very useful for python projects")
 from member import Member
 from library import  Library
 
